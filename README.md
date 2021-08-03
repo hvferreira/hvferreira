@@ -2,4 +2,4 @@
 - 👀 I’m interested in Code, Photography, Exercise, Travel and Tech.
 - 🌱 I’m currently learning React Native.
 - 💞️ I’m looking to collaborate on new projects!
-- 📫 How to reach me hvferreira@gmail.com
+- 📫 How to reach me heldervferreira@gmail.com
