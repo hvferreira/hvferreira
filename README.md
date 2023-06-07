@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **heldervferreira@gmail.com**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hvferreira&show_icons=true&locale=en&theme=highcontrast" alt="hvferreira" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hvferreira&show_icons=true&locale=en&theme=highcontrast" alt="hvferreira" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
