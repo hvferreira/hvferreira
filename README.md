@@ -24,5 +24,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hvferreira&theme=highcontrast&" alt="hvferreira" /></p>
 
-  
+
+  <p align="center">
+ Grateful that you took the time to explore my GitHub!
+</p>
 
